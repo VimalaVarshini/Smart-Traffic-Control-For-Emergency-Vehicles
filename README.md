@@ -36,4 +36,4 @@ Sound Sensor (LM393) - Detects ambulance siren sound.
 
 # Conclusion
 
-The proposed system effectively reduces the waiting time of emergency vehicles at traffic intersections. By integrating sound sensors with an Arduino-based traffic control system, the solution ensures ambulances can navigate busy intersections efficiently. Future enhancements will further improve the system’s reliability and scalability.
+The proposed system effectively reduces the waiting time of emergency vehicles at traffic intersections. By integrating sound sensors with an Arduino-based traffic control system, the solution ensures ambulances can navigate busy intersections efficiently.
