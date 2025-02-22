@@ -1,4 +1,4 @@
-# Smart-Traffic-Control-For-Emergency-Vehicles
+# Smart Traffic Control For Emergency Vehicles
 # Abstract
 
 Traffic congestion is a major issue in urban areas, often delaying emergency vehicles like ambulances. This project proposes a smart traffic control system that prioritizes emergency vehicles by detecting their siren sounds and automatically managing traffic signals. The system employs **Arduino UNO and LM393 sound sensors** to recognize ambulance sirens and clear the path by turning traffic lights green in the corresponding lane.
