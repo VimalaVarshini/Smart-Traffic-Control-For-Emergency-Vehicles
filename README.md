@@ -1,7 +1,7 @@
 # Smart-Traffic-Control-For-Emergency-Vehicles
 # Abstract
 
-Traffic congestion is a major issue in urban areas, often delaying emergency vehicles like ambulances. This project proposes a smart traffic control system that prioritizes emergency vehicles by detecting their siren sounds and automatically managing traffic signals. The system employs Arduino UNO and LM393 sound sensors to recognize ambulance sirens and clear the path by turning traffic lights green in the corresponding lane.
+Traffic congestion is a major issue in urban areas, often delaying emergency vehicles like ambulances. This project proposes a smart traffic control system that prioritizes emergency vehicles by detecting their siren sounds and automatically managing traffic signals. The system employs **Arduino UNO and LM393 sound sensors** to recognize ambulance sirens and clear the path by turning traffic lights green in the corresponding lane.
 
 # Components Used
 
@@ -19,20 +19,20 @@ Sound Sensor (LM393) - Detects ambulance siren sound.
 
 # Environment Used
 
-Hardware: Arduino UNO, LM393 sound sensor, LEDs, breadboard, connecting wires.
+**Hardware**: Arduino UNO, LM393 sound sensor, LEDs, breadboard, connecting wires.
 
-Software: Arduino IDE for programming the microcontroller.
+**Software**: Arduino IDE for programming the microcontroller.
 
 
 # Future Improvements
 
-Integration with GPS: To enhance accuracy in detecting emergency vehicle locations.
+**Integration with GPS**: To enhance accuracy in detecting emergency vehicle locations.
 
-AI-based Traffic Analysis: To optimize traffic signals dynamically.
+**AI-based Traffic Analysis**: To optimize traffic signals dynamically.
 
-RFID Tagging for Ambulances: To improve ambulance detection and reduce false positives.
+**RFID Tagging for Ambulances**: To improve ambulance detection and reduce false positives.
 
-Cloud-based Data Processing: For better traffic pattern analysis and control.
+**Cloud-based Data Processing**: For better traffic pattern analysis and control.
 
 # Conclusion
 
